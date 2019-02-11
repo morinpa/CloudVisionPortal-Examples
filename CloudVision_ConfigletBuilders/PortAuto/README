@@ -1,0 +1,1 @@
+This configletbuilder uses deviceAPI from CVP 2018.2 to get the lldp neighbors to create a configlet that generates descriptions on the interfaces.
